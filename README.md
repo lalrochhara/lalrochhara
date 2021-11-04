@@ -16,5 +16,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/NickyLrca"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nickylalrochhara" /></a></p><br><br>
-
+<P><img align="center" src="https://blogger.googleusercontent.com/img/a/AVvXsEjXtQLCIDQy4DUjqHojnYx-vnqW4KL4gbfskRm73IgoBtF3mn1BLOO9PTobTtbnRedOkiiaSEwPpRtICJxe0X5ARzyguuHOxAGOjq1a6jgpzokhyqo4175t4e7XTdM3pSonejF20HFtC18TpCKukabz1bZQ413qHvnJ9vAeflfdugRg4MKAak_o0d4xow=s578" height="150" width="300" alt="Nickylalrochhara"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalrochhara&show_icons=true&locale=en&layout=compact" alt="lalrochhara" /></p>
